@@ -3,11 +3,13 @@ Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 🏗️ Data Architecture
-The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/b8b1b79b-a538-49f8-ab60-34d3c0b06bc8" />
 
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
 📖 Project Overview
 This project involves:
 
@@ -23,16 +25,7 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
-🛠️ Important Links & Tools:
-Everything is for Free!
 
-Datasets: Access to the project dataset (csv files).
-SQL Server Express: Lightweight server for hosting your SQL database.
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
-Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-DrawIO: Design data architecture, models, flows, and diagrams.
-Notion: Get the Project Template from Notion
-Notion Project Steps: Access to All Project Phases and Tasks.
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective

@@ -86,4 +86,3 @@ Developed by Data with Baara.
 
 🌟 About Me
 I’m a Medical Coder with a background in healthcare, now transitioning into IT. I’m learning programming and technical tools to build a career at the intersection of healthcare and technology.I’m interested in data engineering, system design, and building practical software applications.
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
